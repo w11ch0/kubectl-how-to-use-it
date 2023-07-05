@@ -20,7 +20,10 @@ Cubriremos:
 Kubectl obtiene etiquetas de nodo
 Kubectl obtener nodo para pods
 Casos de uso dekubectl get nodes
-¿Qué es kubectl obtener nodos?
+
+## ¿Qué hace kubectl get nods?
+
+
 kubectl get nodeses un comando poderoso que proporciona información esencial sobre los nodos en su clúster de Kubernetes. Cuando ejecuta este comando, se comunica con el servidor API de Kubernetes, recuperando la información necesaria del plano de control del clúster. 
 
 El kubectl get nodescomando obtiene el estado actual de todos los nodos del clúster y muestra la información en un formato tabular, como se muestra a continuación.
