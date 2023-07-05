@@ -28,7 +28,8 @@ kubectl get nodeses un comando poderoso que proporciona información esencial so
 
 El kubectl get nodescomando obtiene el estado actual de todos los nodos del clúster y muestra la información en un formato tabular, como se muestra a continuación.
 
-$ kubectl get nodes
+<sub>$ kubectl get nodes</sub>
+
 Output:
 
 NAME       STATUS   ROLES    AGE     VERSION
